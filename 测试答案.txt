@@ -1,0 +1,17 @@
+1-50
+abcac acbcc abbba dbddc
+cacdd adbcb aabdb daacc
+adcdc abbab
+51
+public static void main (String args[]){
+for£¨int i=0;i<5;i++£©{
+for£¨int j=0;j<5;j++£©{
+System.out.println(¡°*¡±);
+}
+}
+52
+public static void main (String args[]){
+Scanner sc =new Scanner(System.in);
+String name= sc.next();
+System.out.println(name);
+}
